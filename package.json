@@ -1,0 +1,19 @@
+{
+  "name": "dark-hue-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark syntax theme.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark",
+    "hue",
+    "color",
+    "python"
+  ],
+  "repository": "https://github.com/MawOfTheVoid/dark-hue-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
